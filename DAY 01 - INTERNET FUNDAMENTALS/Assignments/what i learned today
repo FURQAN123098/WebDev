@@ -1,0 +1,26 @@
+## things i learned today
+
+-DNS {DNS, or the Domain Name System, translates human readable domain names (for example, www.amazon.com) to machine readable IP addresses }
+-ISP {ISP stands for Internet Service Provider which is a term used to refer to a company that provides internet access to people who pay the company or subscribe to the
+company for the same}
+-DNS RESOLVER {The DNS resolver for the ISP finally has the IP address that the user needs. The resolver returns that value to the web browser. The DNS resolver also 
+caches (stores) the IP address for example.com for an amount of time that you specify so that it can respond more quickly the next time someone browses to example.com.}
+-HTTP REQUEST METHOD {HTTP works as a request-response protocol between a client and server.HTTP defines a set of request methods to indicate the desired action to be
+performed for a given resource. Although they can also be nouns, these request methods are sometimes referred to as HTTP verbs}
+-HTTP REQUEST STATUS CODE {HTTP response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped in five classes:
+Informational responses ( 100 – 199 ) Successful responses ( 200 – 299 ) Redirection messages ( 300 – 399 )}
+-HOW TO CHECK IP FROM CMD {First, click on your Start Menu and type cmd in the search box and press enter. A black and white window will open where you will type 
+ipconfig /all and press enter. There is a space between the command ipconfig and the switch of /all. Your ip address will be the IPv4 address.}
+-PORTS {The port property sets or returns the port part of the href attribute value. The href attribute specifies the destination of a link in an area. Note: If the
+port number is not specified in the URL (or if it is the scheme's default port - like 80, or 443), some browsers will display 0 or nothing.}
+-COMPUTER NETWORK {A computer network is a cluster of computers over a shared communication path that works for the purpose of sharing resources from one computer to
+another, provided by or located on the network nodes.}
+-OTHERS 
+TAG      DESCRIPTION
+<ul>	Defines an unordered list
+<ol>	Defines an ordered list
+<li>	Defines a list item
+<dl>	Defines a description list
+<dt>	Defines a term in a description list
+<dd>	Describes the term in a description list
+
